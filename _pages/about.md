@@ -15,7 +15,7 @@ My current research focus revolves around tackling urban challenges through AI-p
 
 
 ## Research Interests
-My passion lies in harnessing the potential of machine learning to break barriers and tackle previously insurmountable challenges. I am dedicated to delving into the profound applications of AI in critical real-world domains, including healthcare, biology, and autonomous driving. From my experiences, I have been particularly captivated by the realms of computer vision and natural language processing (NLP). However, my eagerness to learn and explore extends beyond these domains, as I am enthusiastic about diving into various other facets of machine learning.
+My passion lies in harnessing the potentials of machine learning to break barriers and tackle previously insurmountable challenges. I am dedicated to delving into the profound applications of AI in critical real-world domains, including healthcare, biology, and autonomous driving. From my experiences, I have been particularly captivated by the realms of computer vision and natural language processing (NLP). However, my eagerness to learn and explore extends beyond these domains, as I am enthusiastic about diving into various other facets of machine learning.
 
 
 
