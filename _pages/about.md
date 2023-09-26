@@ -8,8 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my academic portfolio! I am a passionate and dedicated researcher currently researching at York University. My academic journey reflects a keen interest in machine learning, computer vision, and natural language processing. As a fast learner and a dependable team player, I am driven to explore innovative applications of machine learning in areas that impact humans' lives.
+I am a passionate researcher deeply immersed in the realms of machine learning, computer vision, and natural language processing. My current role as a research assistant at York University allows me to channel this enthusiasm into meaningful contributions. My motivation lies in exploring novel applications of machine learning that significantly impact human lives.
 
-I am currently focusing on addressing urban problems with AI solutions such as computer vision and graph neural networks. Formerly, I have worked at Canadian Tire as a business analyst. Moreover, I have obtained my master's from Toronto Metropolitan University during which I was part of the <a href="https://ls3.rnet.torontomu.ca/" target="_blank">Labs for Systems, Software and Semantics</a>. Also, I consulted TTC as an academic researcher to achieve their project goals. You can find my latest list of projects [here](projects.md).
+My current research focus revolves around tackling urban challenges through AI-powered solutions, employing technologies such as computer vision and graph neural networks. Prior to my academic position, I held a role as a business analyst at Canadian Tire. Additionally, I completed my master's degree at Toronto Metropolitan University, where I was an active member of the <a href="https://ls3.rnet.torontomu.ca/" target="_blank">Laboratory for Systems, Software and Semantics</a>. During this period, I also collaborated with the Toronto Transit Commission (TTC) as an academic researcher, contributing to the enhancement of their machine learning products. For an updated list of my latest projects, please refer to [this link](projects.md).
+
+
+
+## Research Interests
+My passion lies in harnessing the potential of machine learning to break barriers and tackle previously insurmountable challenges. I am dedicated to delving into the profound applications of AI in critical real-world domains, including healthcare, biology, and autonomous driving. From my experiences, I have been particularly captivated by the realms of computer vision and natural language processing (NLP). However, my eagerness to learn and explore extends beyond these domains, as I am enthusiastic about diving into various other facets of machine learning.
+
+
+
+
+
 
 
