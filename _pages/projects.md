@@ -35,9 +35,17 @@ Ranklib offers a valuable feature management tool, generating insightful feature
 <br/> *<span style="color:green;">Keywords:</span> Gini Feature Importance, RankLib, Learning to Rank, Random Forests*
 
 ## Question Routing
+<!-- Left side: project description -->
+<div style="width: 70%; float: left;">
 We developed an expert recommending system for Q&A platforms, such as Stack Overflow and Quora. We defined 74 features using techniques such as LDA topic modeling, word mover’s distance text similarity, and graph embedding. We optimized the features through feature engineering and proposed a learning to rank approach that achieved 16.41% higher performance than the deep learning state-of-the-art model in NDCG@10 on 5 websites’ datasets. We used a transparent and interpretable model and provided insights on the most important and effective features. The result is published as a journal paper and can be found [here](https://www.sciencedirect.com/science/article/pii/S0020025522006661).
 <br/>[Laboratory for Systems, Software and Semantics](https://ls3.rnet.torontomu.ca/)
 <br/> *<span style="color:green;">Keywords:</span> Question routing, Expert finding, Embedding, Learning to rank, Multimodal Representation*
 
+<!-- Right side: project image -->
+<div style="width: 30%; float: right;">
+  <img src="/images/paper_overview.jpg" alt="Question Routing Image" style="max-width: 100%; width: 300px;">
+</div>
+
+<div style="clear: both;"></div>
 
 
