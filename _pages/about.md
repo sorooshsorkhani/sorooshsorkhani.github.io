@@ -34,19 +34,11 @@ My passion lies in harnessing the potentials of machine learning to break barrie
 }
 </style>
 
-<!-- TMU -->
+<!-- YorkU -->
 <div class="experience-container">
-  <img src="/images/TMU_logo.png" alt="TMU Logo" class="company-logo">
+  <img src="/images/YorkU_logo.png" alt="YorkU Logo" class="company-logo">
   <div class="experience-info">
-    <p><strong>Research Assistant | Sep 2019 - Jun 2021</strong></p>
-  </div>
-</div>
-
-<!-- TTC -->
-<div class="experience-container">
-  <img src="/images/TTC_logo.png" alt="TTC Logo" class="company-logo">
-  <div class="experience-info">
-    <p><strong>Research Assistant | Jan 2021 - Jun 2021</strong></p>
+    <p><strong>Research Assistant | Jun 2023 - Present</strong></p>
   </div>
 </div>
 
@@ -58,13 +50,22 @@ My passion lies in harnessing the potentials of machine learning to break barrie
   </div>
 </div>
 
-<!-- YorkU -->
+<!-- TTC -->
 <div class="experience-container">
-  <img src="/images/YorkU_logo.png" alt="YorkU Logo" class="company-logo">
+  <img src="/images/TTC_logo.png" alt="TTC Logo" class="company-logo">
   <div class="experience-info">
-    <p><strong>Research Assistant | Jun 2023 - Present</strong></p>
+    <p><strong>Research Assistant | Jan 2021 - Jun 2021</strong></p>
   </div>
 </div>
+
+<!-- TMU -->
+<div class="experience-container">
+  <img src="/images/TMU_logo.png" alt="TMU Logo" class="company-logo">
+  <div class="experience-info">
+    <p><strong>Research Assistant | Sep 2019 - Jun 2021</strong></p>
+  </div>
+</div>
+
 
 
 
