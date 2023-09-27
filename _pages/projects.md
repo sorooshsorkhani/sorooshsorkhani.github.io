@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Parked Cars Detection
-Our aim is to analyze dashboard camera footage from a moving vehicle, using state-of-the-art models such as YOLOv8 and the Segment Anything Model, to detect parked cars along urban streets. This addresses the critical gap in urban data on on-street parking, vital for numerous research studies. This project is currently in progress, and we anticipate releasing the final results and product in the near future. Stay tuned for updates.
+Our aim is to analyze dashboard camera footage from a moving vehicle, using state-of-the-art models such as YOLOv8 and the Segment Anything Model, to detect parked cars along urban streets in real time. This addresses the critical gap in urban data on on-street parking, vital for numerous research studies. This project is currently in progress, and we anticipate releasing the final results and product in the near future. Stay tuned for updates.
 <br/> *<span style="color:green;">Keywords:</span> Computer Vision, Segment Anything Model, YOLOv8, Object Tracking*
 
 ## Parking Violations
