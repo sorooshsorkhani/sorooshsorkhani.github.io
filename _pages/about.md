@@ -12,11 +12,59 @@ I am a passionate researcher deeply immersed in the realms of machine learning, 
 
 My current research focus revolves around tackling urban challenges through AI-powered solutions, employing technologies such as computer vision and graph neural networks. Prior to my current position, I held a role as a business analyst at Canadian Tire. Additionally, I completed my master's degree at Toronto Metropolitan University, where I was an active member of the <a href="https://ls3.rnet.torontomu.ca/" target="_blank">Laboratory for Systems, Software and Semantics</a>. During this period, I also collaborated with the Toronto Transit Commission (TTC) as an academic researcher, contributing to the enhancement of their machine learning products. For an updated list of my latest projects, please refer to [this link](projects).
 
-
-
 ## Research Interests
 My passion lies in harnessing the potentials of machine learning to break barriers and tackle previously insurmountable challenges. I am dedicated to delving into the profound applications of AI in critical real-world domains, including healthcare, biology, and autonomous driving. From my experiences, I have been particularly captivated by the realms of computer vision and natural language processing (NLP). However, my eagerness to learn and explore extends beyond these domains, as I am enthusiastic about diving into various other facets of machine learning.
 
+## Experience
+
+<style>
+.experience-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px; /* Adjust margin as needed */
+}
+
+.company-logo {
+  max-width: 100px; /* Adjust the maximum width of the logo */
+  margin-right: 20px; /* Adjust spacing between logo and text */
+}
+
+.experience-info {
+  flex: 1;
+}
+</style>
+
+<!-- TMU -->
+<div class="experience-container">
+  <img src="/images/TMU_logo.png" alt="TMU Logo" class="company-logo">
+  <div class="experience-info">
+    <p><strong>Research Assistant | Sep 2019 - Jun 2021</strong></p>
+  </div>
+</div>
+
+<!-- TTC -->
+<div class="experience-container">
+  <img src="/images/TTC_logo.png" alt="TTC Logo" class="company-logo">
+  <div class="experience-info">
+    <p><strong>Research Assistant | Jan 2021 - Jun 2021</strong></p>
+  </div>
+</div>
+
+<!-- Canadian Tire -->
+<div class="experience-container">
+  <img src="/images/Canadian_Tire_logo.png" alt="Canadian Tire Logo" class="company-logo">
+  <div class="experience-info">
+    <p><strong>Business Analyst | Sep 2021 - Sep 2022</strong></p>
+  </div>
+</div>
+
+<!-- YorkU -->
+<div class="experience-container">
+  <img src="/images/YorkU_logo.png" alt="YorkU Logo" class="company-logo">
+  <div class="experience-info">
+    <p><strong>Research Assistant | Jun 2023 - Present</strong></p>
+  </div>
+</div>
 
 
 
