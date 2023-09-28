@@ -48,7 +48,7 @@ Ranklib offers a valuable feature management tool, generating insightful feature
 
 <!-- Right side: project image -->
 <div style="width: 30%; float: right;">
-  <img src="/images/gini_image.png" alt="Question Routing Image" style="max-width: 100%; width: 300px;">
+  <img src="/images/gini_image.png" alt="Question Routing Image" style="max-width: 100%; width: 200px;">
 </div>
 
 <div style="clear: both;"></div>
