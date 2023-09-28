@@ -8,8 +8,18 @@ redirect_from:
 ---
 
 ## Parked Cars Detection
+<!-- Left side: project description -->
+<div style="width: 70%; float: left;">
 Our aim is to analyze dashboard camera footage from a moving vehicle, using state-of-the-art models such as YOLOv8 and the Segment Anything Model, to detect parked cars along urban streets in real time. This addresses the critical gap in urban data on on-street parking, vital for numerous research studies. This project is currently in progress, and we anticipate releasing the final results and product in the near future. Stay tuned for updates.
 <br/> *<span style="color:green;">Keywords:</span> Computer Vision, Segment Anything Model, YOLOv8, Object Tracking*
+</div>
+
+<!-- Right side: project image -->
+<div style="width: 30%; float: right;">
+  <img src="/images/dashcam_image.png" alt="Dashcam Image" style="max-width: 100%; width: 300px;">
+</div>
+
+<div style="clear: both;"></div>
 
 ## Parking Violations
 <!-- Left side: project description -->
@@ -28,11 +38,20 @@ We've meticulously gathered data publicly available from the City of Toronto's o
 
 
 ## RankLib Gini
+<!-- Left side: project description -->
+<div style="width: 70%; float: left;">
 Ranklib offers a valuable feature management tool, generating insightful feature usage statistics. These statistics unveil the frequency of each feature's utilization within the learning to rank model. However, it's essential to recognize that the frequency of a feature does not necessarily correlate with its importance or effectiveness.
 <br/>In response to this, I have developed a specialized program to calculate the Gini importance of features in RankLib's random forest model. The Gini importance metric is widely acknowledged and utilized in learning to rank research as a reliable criterion for determining the most impactful features.
-<br/>My program is available in this [GitHub repository](https://github.com/sorooshsorkhani/RankLib-Gini).
-<br/>[Laboratory for Systems, Software and Semantics](https://ls3.rnet.torontomu.ca/)
+<br/>My program is available in this <a href="https://github.com/sorooshsorkhani/RankLib-Gini">GitHub repository</a>.
+<br/><a href="https://ls3.rnet.torontomu.ca/">Laboratory for Systems, Software and Semantics</a>
 <br/> *<span style="color:green;">Keywords:</span> Gini Feature Importance, RankLib, Learning to Rank, Random Forests*
+
+<!-- Right side: project image -->
+<div style="width: 30%; float: right;">
+  <img src="/images/gini_image.png" alt="Question Routing Image" style="max-width: 100%; width: 300px;">
+</div>
+
+<div style="clear: both;"></div>
 
 ## Question Routing
 <!-- Left side: project description -->
