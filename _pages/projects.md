@@ -32,17 +32,13 @@ We've meticulously gathered data publicly available from the City of Toronto's o
 <br/> *<span style="color:green;">Keywords:</span> Graph Neural Network, Gradient Boosted Trees, Urban Planning Insight*
 </div>
 
-<!-- Right side: heatmap image -->
+<!-- Right side: heatmap and sample prediction images -->
 <div style="width: 30%; float: right;">
   <img src="/images/heat_map.png" alt="Parking Violations Heatmap Image" style="max-width: 100%; width: 300px;">
+  <img src="/images/sample_prediction.png" alt="Parking Violations Sample Prediction Image" style="max-width: 100%; width: 300px;">
 </div>
 
 <div style="clear: both;"></div>
-
-<!-- Second Image: sample prediction image -->
-<div style="width: 30%; float: right; clear: both;">
-  <img src="/images/sample_prediction.png" alt="Parking Violations Sample Prediction Image" style="max-width: 100%; width: 300px;">
-</div>
 
 
 ## RankLib Gini Feature Importance
