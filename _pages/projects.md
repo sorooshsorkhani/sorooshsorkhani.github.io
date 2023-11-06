@@ -16,7 +16,7 @@ redirect_from:
 
 <!-- Right side: project video -->
 <div style="width: 30%; float: right;">
-  <iframe width="100%" height="300" src="https://youtu.be/eLD5K3X6t_k" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/eLD5K3X6t_k?si=-NzfXQf608uDmfTd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 <div style="clear: both;"></div>
