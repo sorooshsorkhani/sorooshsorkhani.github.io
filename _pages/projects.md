@@ -7,17 +7,20 @@ redirect_from:
   - /projects
 ---
 
-## Parked Cars Detection
+## On-street Parking Occupancy Detection
 <!-- Left side: project description -->
 <div style="width: 70%; float: left;">
-Our aim is to analyze dashboard camera footage from a moving vehicle, using state-of-the-art models such as YOLOv8, to detect parked cars along urban streets. This addresses the critical gap in urban data on on-street parking, vital for numerous research studies. This project is currently in progress, and we anticipate releasing the final results and product in the near future. Stay tuned for updates.
-<br/> *<span style="color:green;">Keywords:</span> Computer Vision, YOLOv8, Object Tracking*
+  We developed an approach to parking demand data collection that leverages dashcams on moving bikes. We begin by geofencing existing on-street parking zones based on the Toronto Parking Authority’s Green-P zones. We then use object detection models to detect vehicle presence when a bike crosses the designated fence and enters the parking zone. Every time a parking zone is visited, the occupancy ground truth is revealed. Therefore, the occupancy prediction accuracy improves with the number of visits per parking zone. The data is subsequently analyzed and visualized on a GIS-based tool to enhance data-driven parking policy decision-making, such as pricing and enforcement. 
+  <br/> *<span style="color:green;">Keywords:</span> Computer Vision, YOLOv8, Object Tracking*
 </div>
 
-<!-- Right side: project image -->
+<!-- Right side: project video -->
 <div style="width: 30%; float: right;">
-  <img src="/images/dashcam_image.png" alt="Dashcam Image" style="max-width: 100%; width: 300px;">
+  <iframe width="100%" height="300" src="https://youtu.be/eLD5K3X6t_k" frameborder="0" allowfullscreen></iframe>
 </div>
+
+<div style="clear: both;"></div>
+
 
 <div style="clear: both;"></div>
 
