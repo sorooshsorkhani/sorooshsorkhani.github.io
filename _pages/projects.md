@@ -7,6 +7,23 @@ redirect_from:
   - /projects
 ---
 
+## Parking Lot Occupancy Detection
+<!-- Left side: project description -->
+<div style="width: 70%; float: left;">
+  Finding convenient parking is difficult in cities where occupancy information is unavailable. We use YOLOv8, a computer vision object detection model provided by Ultralytics, to detect the occupancy status of individual parking spaces in a lot. We display parking spaces as polygons and use green and red to represent empty and occupied spaces, respectively. The real-time detected occupancy of the lots is then aggregated and displayed on a web app accessible to all. 
+  <br/> *<span style="color:green;">Keywords:</span> Computer Vision, YOLOv8, Object Detection*
+</div>
+
+<!-- Right side: project video -->
+<div style="width: 30%; float: right;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/pNGaG6YWnn8?si=AUhCZG9MpnFXa2wx" title="Parking Lot Occupancy Detection" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div style="clear: both;"></div>
+
+
+
+
 ## On-street Parking Occupancy Detection
 <!-- Left side: project description -->
 <div style="width: 70%; float: left;">
@@ -16,13 +33,11 @@ redirect_from:
 
 <!-- Right side: project video -->
 <div style="width: 30%; float: right;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/eLD5K3X6t_k?si=-NzfXQf608uDmfTd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/eLD5K3X6t_k?si=-NzfXQf608uDmfTd" title="On-street Parking Occupancy Detection" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 <div style="clear: both;"></div>
 
-
-<div style="clear: both;"></div>
 
 ## Parking Violations
 <!-- Left side: project description -->
