@@ -2,3 +2,30 @@
 
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}
+
+
+// Get the button element and the body element
+var btn = document.getElementById("theme-switcher");
+var body = document.body;
+
+// Listen for a click on the button
+btn.addEventListener("click", function() {
+  // Toggle the "dark-mode" class on the body
+  body.classList.toggle("dark-mode");
+
+  // Get the current image source of the button
+  var image = btn.getElementsByTagName("img")[0];
+  var image_src = image.getAttribute("src");
+
+  // Change the image source according to the current mode
+  if (image_src.indexOf("moon") != -1) {
+    // If the image is a moon, change it to a sun
+    image_src = image_src.replace("moon", "sun");
+  } else {
+    // If the image is a sun, change it to a moon
+    image_src = image_src.replace("sun", "moon");
+  }
+
+  // Set the new image source of the button
+  image.setAttribute("src", image_src);
+});
