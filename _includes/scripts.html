@@ -3,8 +3,6 @@
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}
 
-<script>
-{% raw %}
 
 // Get the button element and the body element
 var btn = document.getElementById("theme-switcher");
@@ -31,10 +29,3 @@ btn.addEventListener("click", function() {
   // Set the new image source of the button
   image.setAttribute("src", image_src);
 });
-  
-{% endraw %}
-</script>
-</body>
-
-
-
