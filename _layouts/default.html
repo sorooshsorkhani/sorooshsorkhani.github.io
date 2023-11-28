@@ -41,12 +41,19 @@ layout: compress
 	<script>
 		document.addEventListener('DOMContentLoaded', function() {
 			var toggle = document.getElementById('dark-mode-toggle');
-			toggle.addEventListener('change', function() {
-				document.body.classList.toggle('dark-mode', this.checked);
-			});
+			
+			if (toggle) {
+				console.log("Toggle found"); // Check if the toggle is found
+				toggle.addEventListener('change', function() {
+					console.log("Toggle changed"); // Check if the toggle change is detected
+					document.body.classList.toggle('dark-mode', this.checked);
+				});
+			} else {
+				console.log("Toggle not found"); // If the toggle is not found
+			}
 		});
-
 	</script>
+
   </body>
 </html>
 
