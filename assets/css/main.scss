@@ -46,7 +46,7 @@
 .switch {
   position: relative;
   display: inline-block;
-  width: 60px; /* Increased width */
+  width: 65px; /* Increased width */
   height: 34px;
 }
 
@@ -138,6 +138,16 @@ input:checked ~ .slider .sun-icon {
 /* Target only links that are within the body content*/
 .dark-mode body a {
     color: #5A96FE; /* Light blue color for links */
+}
+
+/* Target only links that are within the body content*/
+.dark-mode masthead a {
+    color: #000000; /* Light blue color for links */
+}
+
+/* Target only links that are within the body content*/
+.dark-mode sidebar {
+    color: #000000; /* Light blue color for links */
 }
 
 .dark-mode header,
