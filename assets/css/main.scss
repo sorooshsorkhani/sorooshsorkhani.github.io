@@ -64,14 +64,14 @@
     color: #FFFFFF; /* White text */
 }
 
-.dark-mode a {
+/* Target only links that are within the body content, not in header or nav */
+.dark-mode body a {
     color: #5A96FE; /* Light blue color for links */
 }
 
 .dark-mode header,
-.dark-mode footer,
 .dark-mode nav {
-    background-color: #707070; /* Background for header, footer, nav (same as the main background) */
+    background-color: #707070; /* Background for header, nav (same as the main background) */
 }
 
 .dark-mode button {
