@@ -10,17 +10,6 @@ layout: compress
     {% include head.html %}
     {% include head/custom.html %}
     <link rel="shortcut icon" type="image/x-icon" href="{{ site.url }}{{ site.baseurl }}{{ '/images/favicon.ico' | relative_url }}">
-	<link rel="stylesheet" href="/assets/css/main.css">
-	<div class="theme-switch-wrapper">
-		<i class="fas fa-sun"></i> <!-- Sun Icon -->
-		<label class="theme-switch" for="checkbox">
-			<input type="checkbox" id="dark-mode-toggle" />
-			<div class="slider round"></div>
-		</label>
-		<i class="fas fa-moon"></i> <!-- Moon Icon -->
-	</div>
-
-
   </head>
 
   <body>
@@ -38,16 +27,7 @@ layout: compress
     </div>
 
     {% include scripts.html %}
-	
-	<script>
-	  document.addEventListener('DOMContentLoaded', function () {
-		const toggle = document.getElementById('dark-mode-toggle');
-		toggle.addEventListener('change', function(event){
-		  document.body.classList.toggle('dark-mode', event.target.checked);
-		});
-	  });
-	</script>
-	
+
   </body>
 </html>
 
