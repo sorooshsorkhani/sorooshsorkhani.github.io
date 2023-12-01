@@ -87,7 +87,7 @@ input:checked + .slider {
 }
 
 input:checked + .slider:before {
-  transform: translateX(46px); /* Adjusted for new width */
+  transform: translateX(30px); /* Adjusted for new width */
 }
 
 /* Icon styles */
@@ -99,11 +99,13 @@ input:checked + .slider:before {
 }
 
 .moon-icon {
+  color: #000000; /* Black color for moon icon */
   top: 7px;
   right: 5px; /* Adjusted for new position */
 }
 
 .sun-icon {
+  color: #FFFFFF; /* White color for sun icon */
   top: 7px;
   left: 5px;
 }
