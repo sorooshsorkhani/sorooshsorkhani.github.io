@@ -60,22 +60,24 @@
 }
 
 .dark-mode {
-    background-color: #121212; /* Very dark gray background */
-    color: #D3D3D3; /* Light gray text */
+    background-color: #1C1C1C; /* Lighter dark gray background */
+    color: #000000; /* Black text */
 }
 
 .dark-mode a {
-    color: #ADD8E6; /* Light blue color for links */
+    color: #0000CD; /* Darker blue color for links */
 }
 
 .dark-mode header,
 .dark-mode footer,
 .dark-mode nav {
-    background-color: #121212; /* Background for header, footer, nav (same as the main background) */
+    background-color: #1C1C1C; /* Background for header, footer, nav (same as the main background) */
 }
 
 .dark-mode button {
-    background-color: #696969; /* Dark gray background for buttons */
+    background-color: #1C1C1C; /* Button background same as main background */
     color: #ffffff; /* White text for buttons */
+}
+
 }
 
