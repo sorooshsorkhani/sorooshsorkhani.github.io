@@ -59,5 +59,24 @@
     display: inline;
 }
 .dark-mode {
-    /* Dark mode specific styles: colors, backgrounds, etc. */
+    background-color: #121212; /* Dark background */
+    color: #ffffff; /* Light text */
 }
+
+.dark-mode a {
+    color: #bb86fc; /* Lighter color for links */
+}
+
+.dark-mode header,
+.dark-mode footer,
+.dark-mode nav {
+    background-color: #1f1f1f; /* Slightly lighter background for header, footer, nav */
+}
+
+.dark-mode button {
+    background-color: #333333; /* Dark background for buttons */
+    color: #ffffff; /* Light text for buttons */
+}
+
+/* Add more elements as needed */
+
