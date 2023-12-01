@@ -46,7 +46,7 @@
 .switch {
   position: relative;
   display: inline-block;
-  width: 80px; /* Increased width */
+  width: 60px; /* Increased width */
   height: 34px;
 }
 
@@ -83,7 +83,7 @@
 }
 
 input:checked + .slider {
-  background-color: #2196F3;
+  background-color: #000000;
 }
 
 input:checked + .slider:before {
@@ -108,11 +108,11 @@ input:checked + .slider:before {
   left: 5px;
 }
 
-input:checked ~ .slider .moon-icon {
+input:not(:checked) ~ .slider .moon-icon {
   display: block;
 }
 
-input:not(:checked) ~ .slider .sun-icon {
+input:checked ~ .slider .sun-icon {
   display: block;
 }
 
@@ -141,7 +141,6 @@ input:not(:checked) ~ .slider .sun-icon {
 .dark-mode header,
 .dark-mode nav {
     background-color: #707070; /* Background for header, nav (same as the main background) */
-	color: #000000; /* Black color for links in the header */
 }
 
 .dark-mode button {
