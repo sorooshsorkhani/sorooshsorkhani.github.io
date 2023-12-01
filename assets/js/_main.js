@@ -97,18 +97,4 @@ $(document).ready(function(){
 
 });
 
-// Dark mode
-
-const toggleButton = document.getElementById("dark-mode-toggle");
-toggleButton.addEventListener('click', () => {
-    console.log("Button clicked");
-    document.body.classList.toggle('dark-mode');
-    console.log("Dark mode class toggled: ", document.body.classList.contains('dark-mode'));
-    localStorage.setItem('darkMode', document.body.classList.contains('dark-mode'));
-});
-
-
-if (localStorage.getItem('darkMode') === 'true') {
-    document.body.classList.add('dark-mode');
-}
 
