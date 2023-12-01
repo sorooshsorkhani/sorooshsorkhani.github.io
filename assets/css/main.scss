@@ -58,25 +58,24 @@
 .dark-mode .moon-icon {
     display: none;
 }
+
 .dark-mode {
-    background-color: #696969; /* Dark gray background */
-    color: #ffffff; /* Light text */
+    background-color: #121212; /* Very dark gray background */
+    color: #D3D3D3; /* Light gray text */
 }
 
 .dark-mode a {
-    color: #bb86fc; /* Lighter color for links */
+    color: #ADD8E6; /* Light blue color for links */
 }
 
 .dark-mode header,
 .dark-mode footer,
 .dark-mode nav {
-    background-color: #696969; /* Background for header, footer, nav */
+    background-color: #121212; /* Background for header, footer, nav (same as the main background) */
 }
 
 .dark-mode button {
-    background-color: #696969; /* Dark background for buttons */
-    color: #ffffff; /* Light text for buttons */
+    background-color: #696969; /* Dark gray background for buttons */
+    color: #ffffff; /* White text for buttons */
 }
-
-/* Add more elements as needed */
 
