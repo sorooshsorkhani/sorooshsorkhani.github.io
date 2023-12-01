@@ -3,6 +3,10 @@
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
+	  <button id="dark-mode-toggle">
+		<span class="sun-icon">☀️</span>
+		<span class="moon-icon">🌙</span>
+	  </button>
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
@@ -15,11 +19,7 @@
             {% endif %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
-        </ul>		
-		<button id="dark-mode-toggle">
-			<span class="sun-icon">☀️</span>
-			<span class="moon-icon">🌙</span>
-		</button>
+        </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
     </div>
