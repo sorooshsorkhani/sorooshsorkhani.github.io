@@ -39,3 +39,25 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Dark mode */
+
+#dark-mode-toggle {
+    cursor: pointer;
+    /* Add more styles for positioning, size, background, etc., as needed */
+}
+.sun-icon, .moon-icon {
+    display: none;
+}
+.sun-icon {
+    display: inline;
+}
+.dark-mode .sun-icon {
+    display: none;
+}
+.dark-mode .moon-icon {
+    display: inline;
+}
+.dark-mode {
+    /* Dark mode specific styles: colors, backgrounds, etc. */
+}
