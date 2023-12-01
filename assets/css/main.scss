@@ -46,7 +46,7 @@
 .switch {
   position: relative;
   display: inline-block;
-  width: 60px;
+  width: 80px; /* Increased width */
   height: 34px;
 }
 
@@ -75,7 +75,7 @@
   content: "";
   height: 26px;
   width: 26px;
-  left: 4px;
+  left: 4px; /* Adjusted for new width */
   bottom: 4px;
   background-color: white;
   transition: .4s;
@@ -87,7 +87,7 @@ input:checked + .slider {
 }
 
 input:checked + .slider:before {
-  transform: translateX(26px);
+  transform: translateX(46px); /* Adjusted for new width */
 }
 
 /* Icon styles */
@@ -100,7 +100,7 @@ input:checked + .slider:before {
 
 .moon-icon {
   top: 7px;
-  left: 40px;
+  right: 5px; /* Adjusted for new position */
 }
 
 .sun-icon {
@@ -125,25 +125,6 @@ input:not(:checked) ~ .slider .sun-icon {
   border-radius: 50%;
 }
 
-/* Dark mode button */
-
-#dark-mode-toggle {
-    cursor: pointer;
-    /* Add more styles for positioning, size, background, etc., as needed */
-}
-.sun-icon, .moon-icon {
-    display: none;
-}
-.moon-icon {
-    display: inline;
-}
-.dark-mode .sun-icon {
-    display: inline;
-}
-.dark-mode .moon-icon {
-    display: none;
-}
-
 
 
 .dark-mode {
@@ -151,10 +132,6 @@ input:not(:checked) ~ .slider .sun-icon {
     color: #FFFFFF; /* White text */
 }
 
-/* Target links specifically in the header */
-.dark-mode header a {
-    color: #000000; /* Black color for links in the header */
-}
 
 /* Target only links that are within the body content*/
 .dark-mode body a {
@@ -164,6 +141,7 @@ input:not(:checked) ~ .slider .sun-icon {
 .dark-mode header,
 .dark-mode nav {
     background-color: #707070; /* Background for header, nav (same as the main background) */
+	color: #000000; /* Black color for links in the header */
 }
 
 .dark-mode button {
