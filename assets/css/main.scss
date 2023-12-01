@@ -64,7 +64,12 @@
     color: #FFFFFF; /* White text */
 }
 
-/* Target only links that are within the body content, not in header or nav */
+/* Target links specifically in the header */
+.dark-mode header a {
+    color: #000000; /* Black color for links in the header */
+}
+
+/* Target only links that are within the body content*/
 .dark-mode body a {
     color: #5A96FE; /* Light blue color for links */
 }
