@@ -10,10 +10,13 @@ layout: compress
     {% include head.html %}
     {% include head/custom.html %}
     <link rel="shortcut icon" type="image/x-icon" href="{{ site.url }}{{ site.baseurl }}{{ '/images/favicon.ico' | relative_url }}">
-	<button id="dark-mode-toggle">
-		<span class="sun-icon">☀️</span>
-		<span class="moon-icon">🌙</span>
-	</button>
+	<label class="switch">
+	  <input type="checkbox" id="dark-mode-toggle">
+	  <span class="slider round">
+		<span class="icon moon-icon">🌙</span>
+		<span class="icon sun-icon">☀️</span>
+	  </span>
+	</label>
   </head>
 
   <body>
