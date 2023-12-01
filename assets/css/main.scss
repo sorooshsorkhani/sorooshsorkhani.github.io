@@ -143,11 +143,8 @@ input:checked ~ .slider .sun-icon {
 }
 
 .dark-mode header,
-.dark-mode nav,
-.dark-mode sidebar,
-.dark-mode masthead {
+.dark-mode nav,{
     background-color: #707070; /* Background for header, nav (same as the main background) */
-	color: #000000;
 }
 
 .dark-mode button {
