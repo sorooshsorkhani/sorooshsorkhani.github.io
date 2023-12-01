@@ -48,6 +48,8 @@
   display: inline-block;
   width: 65px; /* Increased width */
   height: 34px;
+  margin-left: 10px; /* Move right */
+  margin-top: 10px; /* Move down */
 }
 
 /* Hide default HTML checkbox */
@@ -140,19 +142,12 @@ input:checked ~ .slider .sun-icon {
     color: #5A96FE; /* Light blue color for links */
 }
 
-/* Target only links that are within the body content*/
-.dark-mode masthead a {
-    color: #000000; /* Light blue color for links */
-}
-
-/* Target only links that are within the body content*/
-.dark-mode sidebar {
-    color: #000000; /* Light blue color for links */
-}
-
 .dark-mode header,
-.dark-mode nav {
+.dark-mode nav,
+.dark-mode sidebar,
+.dark-mode masthead {
     background-color: #707070; /* Background for header, nav (same as the main background) */
+	color: #000000;
 }
 
 .dark-mode button {
