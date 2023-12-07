@@ -149,6 +149,6 @@ input:checked ~ .slider .sun-icon {
 
 .dark-mode button {
     background-color: #707070; /* Dark gray background for buttons */
-    color: #FFFFFF; /* White text for buttons */
+    color: #FFFFFF !important; /* White text for buttons */
 }
 
