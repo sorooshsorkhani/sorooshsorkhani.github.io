@@ -28,7 +28,7 @@ redirect_from:
 ## On-street Parking Occupancy Detection
 <!-- Left side: project description -->
 <div style="width: 70%; float: left;">
-  We developed an approach to parking demand data collection that leverages dashcams on moving bikes. We begin by geofencing existing on-street parking zones based on the Toronto Parking Authority’s red-P zones. We then use object detection models to detect vehicle presence when a bike crosses the designated fence and enters the parking zone. Every time a parking zone is visited, the occupancy ground truth is revealed. Therefore, the occupancy prediction accuracy improves with the number of visits per parking zone. The data is subsequently analyzed and visualized on a GIS-based tool to enhance data-driven parking policy decision-making, such as pricing and enforcement.
+  We developed an approach to parking demand data collection that leverages dashcams on moving bikes. We begin by geofencing existing on-street parking zones based on the Toronto Parking Authority’s Green-P zones. We then use object detection models to detect vehicle presence when a bike crosses the designated fence and enters the parking zone. Every time a parking zone is visited, the occupancy ground truth is revealed. Therefore, the occupancy prediction accuracy improves with the number of visits per parking zone. The data is subsequently analyzed and visualized on a GIS-based tool to enhance data-driven parking policy decision-making, such as pricing and enforcement.
 <br/><a href="https://interactive-or.com/">Interactive-OR Lab</a>
   <br/><span style="color:#FFA500;">Keywords:</span> Computer Vision, YOLOv8, Object Tracking
 </div>
