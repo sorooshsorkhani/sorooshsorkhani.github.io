@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Soroosh Sorkhani"
 title_separator          : "-"
 name                     : &name "Soroosh Sorkhani"
-description              : &description "Researcher at York University"
+description              : &description "Data Scientist, Computer Vision Engineer at York University"
 url                      : https://sorooshsorkhani.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sorooshsorkhani/sorooshsorkhani.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Soroosh Sorkhani"
   avatar           : "profile.png"
-  bio              : "Researcher at York University"
+  bio              : "Data Scientist, Computer Vision Engineer at York University"
   location         : "Toronto, Canada"
   employer         : "York University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=VA4Y4-EAAAAJ&hl=en&oi=ao"
-  email            : "soroosh.sorkhani@torontomu.ca"
+  email            : "soroosh.sorkhani@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "sorooshsorkhani"
   wikipedia        :
 
 
