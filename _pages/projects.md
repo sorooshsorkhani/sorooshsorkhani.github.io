@@ -7,6 +7,26 @@ redirect_from:
   - /projects
 ---
 
+
+## Intersection Traffic Analysis
+<!-- Left side: project description -->
+<div style="width: 70%; float: left;">
+  Employing a smart city signal at intersections helps smoother navigation in urban areas. Enabling optimized traffic lights is possible in scale by leveraging computer vision techniques such as object detection. We use YOLOv8 for tracking vehicles by type per lane. Additionally, we estimate speed and waiting times at intersections for deeper analysis and insights.
+<br/><a href="https://interactive-or.com/">Interactive-OR Lab</a>
+  <br/><span style="color:#FFA500;">Keywords:</span> Computer Vision, YOLOv8, Object Detection
+</div>
+
+<!-- Right side: project video -->
+<div style="width: 30%; float: right;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/E7tQ1TRUPfk?si=6S_jNl9UjfBQRRip" title="Intersection Traffic Analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div style="clear: both;"></div>
+
+
+
+
+
 ## Parking Lot Occupancy Detection
 <!-- Left side: project description -->
 <div style="width: 70%; float: left;">
