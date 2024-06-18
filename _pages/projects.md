@@ -48,7 +48,7 @@ redirect_from:
 ## On-street Parking Occupancy Detection
 <!-- Left side: project description -->
 <div style="width: 70%; float: left;">
-  We developed an approach to parking demand data collection that leverages dashcams on moving bikes. We begin by geofencing existing on-street parking zones based on the Toronto Parking Authority’s Green-P zones. We then use object detection models to detect vehicle presence when a bike crosses the designated fence and enters the parking zone. Every time a parking zone is visited, the occupancy ground truth is revealed. Therefore, the occupancy prediction accuracy improves with the number of visits per parking zone. The data is subsequently analyzed and visualized on a GIS-based tool to enhance data-driven parking policy decision-making, such as pricing and enforcement.
+  We developed an approach to parking demand data collection that leverages dashcams on moving bikes. We begin by geofencing existing on-street parking zones based on the Toronto Parking Authority’s Green-P zones. We then use object detection models to detect vehicle presence when a bike crosses the designated fence and enters the parking zone. Every time a parking zone is visited, the occupancy ground truth is revealed. Therefore, the occupancy prediction accuracy improves with the number of visits per parking zone. The data is subsequently analyzed and visualized on a GIS-based tool to enhance data-driven parking policy decision-making, such as pricing and enforcement. This project was presented at ITE Canada 2024 Conference.
 <br/><a href="https://interactive-or.com/">Interactive-OR Lab</a>
   <br/><span style="color:#FFA500;">Keywords:</span> Computer Vision, YOLOv8, Object Tracking
 </div>
@@ -65,7 +65,7 @@ redirect_from:
 <!-- Left side: project description -->
 <div style="width: 70%; float: left;">
 We've meticulously gathered data publicly available from the City of Toronto's open data platform, focusing on on-street parking dynamics. This extensive dataset encompasses transactional records of parking space usage, amenities in proximity to these areas, and reported violations leading to ticket issuance.
-<br/>Our primary objective is to employ cutting-edge models, including Graph Neural Networks and Gradient Boosted Trees, to predict instances and locations where parking violations are more likely to occur. This innovative study holds the potential to significantly contribute to the city's urban planning efforts by shedding light on patterns and trends related to parking violations. This project is ongoing, with active refinement and analysis underway for future publication. Stay tuned for updates and insights from our research.
+<br/>Our primary objective is to employ cutting-edge models, including Graph Neural Networks and Gradient Boosted Trees, to predict instances and locations where parking violations are more likely to occur. This innovative study holds the potential to significantly contribute to the city's urban planning efforts by shedding light on patterns and trends related to parking violations. This project was presented at ITE Canada 2024 Conference.
 <br/><a href="https://interactive-or.com/">Interactive-OR Lab</a>
 <br/><span style="color:#FFA500;">Keywords:</span> Graph Neural Network, Gradient Boosted Trees, Urban Planning Insight
 </div>
