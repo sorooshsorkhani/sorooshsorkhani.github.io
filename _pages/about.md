@@ -34,6 +34,14 @@ My passion lies in harnessing the potentials of machine learning and AI to break
 }
 </style>
 
+<!-- McGill -->
+<div class="experience-container">
+  <img src="/images/McGill_logo.png" alt="McGill Logo" class="company-logo">
+  <div class="experience-info">
+    <p><strong>LLM Engineer | Sep 2024 - Present</strong></p>
+  </div>
+</div>
+
 <!-- YorkU -->
 <div class="experience-container">
   <img src="/images/YorkU_logo.png" alt="YorkU Logo" class="company-logo">
