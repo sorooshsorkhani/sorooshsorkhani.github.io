@@ -39,7 +39,7 @@ My passion lies in harnessing the potentials of machine learning and AI to break
 <div class="experience-container">
   <img src="/images/McGill_logo.png" alt="McGill Logo" class="company-logo">
   <div class="experience-info">
-    <p><strong>LLM Engineer | Sep 2024 - Present</strong></p>
+    <p><strong>Data Scientist, LLM Engineer | Sep 2024 - Present</strong></p>
   </div>
 </div>
 
