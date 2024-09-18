@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a passionate researcher deeply immersed in the realms of machine learning, computer vision, and natural language processing. My current role as a data scientist, computer vision engineer at York University allows me to channel this enthusiasm into meaningful contributions. My motivation lies in exploring novel applications of machine learning that significantly impact human lives.
+I am a passionate researcher deeply immersed in the realms of AI, natural language processing, and computer vision. My current role as a data scientist, LLM engineer at McGill University allows me to channel this enthusiasm into meaningful contributions. My motivation lies in exploring novel applications of AI that significantly impact human lives.
 
-My current research focus at <a href="https://interactive-or.com/" target="_blank">Interactive-OR Lab</a> revolves around tackling urban mobility challenges through AI-powered solutions, employing technologies such as computer vision and graph neural networks. Prior to my current position, I held a role as a data analyst at Canadian Tire. Additionally, I completed my master's degree at Toronto Metropolitan University, where I was an active member of the <a href="https://ls3.rnet.torontomu.ca/" target="_blank">Laboratory for Systems, Software and Semantics</a>. During this period, I also collaborated with the Toronto Transit Commission (TTC) as a machine learning engineer, contributing to the enhancement of their machine learning products. For an updated list of my latest projects, please refer to [this link](projects).
+
+At McGill University, my research focuses on building a large language model-based system for the <a href="https://geobon.org/" target="_blank">GEO BON</a> community. This AI tool helps biodiversity experts, non-experts, and policymakers access reliable knowledge on biodiversity and conservation. I also work part-time at the <a href="https://interactive-or.com/" target="_blank">Interactive-OR Lab</a> , where I use AI technologies like computer vision on the edge to address urban mobility challenges. Prior to my current positions, I held a role as a data analyst at Canadian Tire. Additionally, I completed my master's degree at Toronto Metropolitan University, where I was an active member of the <a href="https://ls3.rnet.torontomu.ca/" target="_blank">Laboratory for Systems, Software and Semantics</a>. During this period, I also collaborated with the Toronto Transit Commission (TTC) as a machine learning engineer, contributing to the enhancement of their machine learning products. For an updated list of my latest projects, please refer to the [projects page](projects).
 
 ## Interests
-My passion lies in harnessing the potentials of machine learning and AI to break barriers and tackle previously insurmountable challenges. I am dedicated to delving into the profound applications of AI in real-world domains, including robotics, autonomous driving, and healthcare. From my experiences, I have been particularly captivated by the realms of computer vision and natural language processing (NLP). However, my eagerness to learn and explore extends beyond these domains, as I am enthusiastic about diving into various other facets of machine learning.
+My passion lies in harnessing the potentials of machine learning and AI to break barriers and tackle previously insurmountable challenges. I am dedicated to delving into the profound applications of AI in real-world domains, including healthcare, autonomous driving, etc. From my experiences, I have been particularly captivated by the realms of natural language processing (NLP) and computer vision. However, my eagerness to learn and explore extends beyond these domains, as I am enthusiastic about diving into various other facets of machine learning.
 
 ## Experience
 
@@ -38,7 +39,7 @@ My passion lies in harnessing the potentials of machine learning and AI to break
 <div class="experience-container">
   <img src="/images/McGill_logo.png" alt="McGill Logo" class="company-logo">
   <div class="experience-info">
-    <p><strong>LLM Engineer | Sep 2024 - Present</strong></p>
+    <p><strong>Data Scientist, LLM Engineer | Sep 2024 - Present</strong></p>
   </div>
 </div>
 
