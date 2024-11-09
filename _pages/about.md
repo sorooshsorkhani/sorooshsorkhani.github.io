@@ -47,7 +47,7 @@ My passion lies in harnessing the potentials of machine learning and AI to break
 <div class="experience-container">
   <img src="/images/YorkU_logo.png" alt="YorkU Logo" class="company-logo">
   <div class="experience-info">
-    <p><strong>Data Scientist, Computer Vision Engineer | Jun 2023 - Present</strong></p>
+    <p><strong>Data Scientist, Computer Vision Engineer | Jun 2023 - Sep 2024</strong></p>
   </div>
 </div>
 
