@@ -39,7 +39,7 @@ My passion lies in harnessing the potentials of machine learning and AI to break
 <div class="experience-container">
   <img src="/images/McGill_logo.png" alt="McGill Logo" class="company-logo">
   <div class="experience-info">
-    <p><strong>Data Scientist, LLM Engineer | Sep 2024 - Present</strong></p>
+    <p><strong>Data Scientist, AI Engineer | Sep 2024 - Present</strong></p>
   </div>
 </div>
 
@@ -63,7 +63,7 @@ My passion lies in harnessing the potentials of machine learning and AI to break
 <div class="experience-container">
   <img src="/images/TTC_logo.png" alt="TTC Logo" class="company-logo">
   <div class="experience-info">
-    <p><strong>Machine Learning Engineer | Jan 2021 - Jun 2021</strong></p>
+    <p><strong>Machine Learning Consultant | Jan 2021 - Jun 2021</strong></p>
   </div>
 </div>
 
