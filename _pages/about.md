@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a passionate researcher deeply immersed in the realms of AI, natural language processing, and computer vision. My current role as a data scientist, LLM engineer at McGill University allows me to channel this enthusiasm into meaningful contributions. My motivation lies in exploring novel applications of AI that significantly impact human lives.
+I am a data scientist specializing in AI, NLP, and computer vision. My current role at McGill University focuses on building an AI assistant for <a href="https://geobon.org/" target="_blank">GEO BON</a>, a global network of 3,500+ biodiversity researchers spanning 152 countries and 2,000 organizations. This RAG-powered agent leverages open-source LLMs such as Llama and DeepSeek, offering capabilities ranging from coding and application interactions to statistical data analysis, delivering reference-backed, reliable, and actionable solutions.  
 
+Previously, at the <a href="https://interactive-or.com/" target="_blank">Interactive-OR Lab</a>, I applied computer vision on edge devices to tackle urban mobility challenges. Before that, I worked as a data analyst at Canadian Tire and collaborated with the Toronto Transit Commission (TTC) as a machine learning consultant to enhance AI-driven transit solutions. I hold a master's degree from Toronto Metropolitan University, where I was part of the <a href="https://ls3.rnet.torontomu.ca/" target="_blank">Laboratory for Systems, Software and Semantics</a>, developing a recommendation system for question-answering platforms like Stack Overflow.  
 
-At McGill University, my research focuses on building a large language model-based system for the <a href="https://geobon.org/" target="_blank">GEO BON</a> community. This AI tool helps biodiversity experts, non-experts, and policymakers access reliable knowledge on biodiversity and conservation. Previously, I worked at the <a href="https://interactive-or.com/" target="_blank">Interactive-OR Lab</a> , where I used AI technologies like computer vision on the edge to address urban mobility challenges. Prior to that, I held a role as a data analyst at Canadian Tire. Additionally, I completed my master's degree at Toronto Metropolitan University, where I was an active member of the <a href="https://ls3.rnet.torontomu.ca/" target="_blank">Laboratory for Systems, Software and Semantics</a>. During this period, I also collaborated with the Toronto Transit Commission (TTC) as a machine learning engineer, contributing to the enhancement of their machine learning products. For an updated list of my latest projects, please refer to the [projects page](projects).
+For my latest projects, check out the [projects page](projects).  
 
-## Interests
-My passion lies in harnessing the potentials of machine learning and AI to break barriers and tackle previously insurmountable challenges. I am dedicated to delving into the profound applications of AI in real-world domains, including healthcare, autonomous driving, etc. From my experiences, I have been particularly captivated by the realms of natural language processing (NLP) and computer vision. However, my eagerness to learn and explore extends beyond these domains, as I am enthusiastic about diving into various other facets of machine learning.
+## Interests  
+I’m passionate about using AI to solve real-world challenges, particularly in NLP and computer vision. I’m also eager to explore emerging areas of machine learning, from healthcare and finance to autonomous systems.  
 
 ## Experience
 
