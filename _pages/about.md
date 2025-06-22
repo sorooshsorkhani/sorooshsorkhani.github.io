@@ -44,7 +44,7 @@ I’m passionate about applying AI to real-world challenges, especially in natur
 
 <!-- TD -->
 <div class="experience-container">
-  <img src="/images/TD_logo.png" alt="TD Logo" class="company-logo">
+  <img src="/images/TD_logo.svg" alt="TD Logo" class="company-logo">
   <div class="experience-info">
     <p><strong>Data Scientist II | Jun 2025 - Present</strong></p>
   </div>
