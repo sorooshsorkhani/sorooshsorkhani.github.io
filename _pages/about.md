@@ -10,7 +10,7 @@ redirect_from:
 
 I’m a data scientist specializing in AI, NLP, and computer vision. Currently, I work on the AML (Anti-Money Laundering) team at **TD Bank**.
 
-Previously, I was an AI Engineer at **McGill University**, where I built **BONsAI**, an AI agent for <a href="https://geobon.org/" target="_blank">GEO BON</a> — a global network of over 3,500 biodiversity researchers across 152 countries and 2,000 organizations. BONsAI is a RAG-powered assistant that uses open-source LLMs like Llama and DeepSeek to support experts through coding, app interactions, statistical analysis, and reliable, reference-backed insights.
+Previously, I was an AI Engineer at **McGill University**, where I built **BONsAI**, an AI agent for <a href="https://geobon.org/" target="_blank">GEO BON</a>, a global network of over 3,500 biodiversity researchers across 152 countries and 2,000 organizations. BONsAI is a RAG-powered assistant that uses open-source LLMs like Llama and DeepSeek to support experts through coding, app interactions, statistical analysis, and reliable, reference-backed insights.
 
 Before that, at the <a href="https://interactive-or.com/" target="_blank">Interactive-OR Lab</a>, I worked on deploying computer vision models on edge devices to address urban mobility problems. I also held a data analyst role at **Canadian Tire** and collaborated with the **Toronto Transit Commission (TTC)** as a machine learning consultant, helping advance AI-driven transit solutions.
 
