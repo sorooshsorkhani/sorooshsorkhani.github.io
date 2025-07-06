@@ -26,7 +26,7 @@ I’m passionate about applying AI to real-world challenges, especially in natur
 🎯 I'm offering free peer mentorship for job seekers in data science and machine learning.  
 If you're navigating the job search and want guidance on goals, projects, resumes, or interview prep, I’d love to help.
 
-👉 Complete this [application](https://forms.gle/EuGnfhTPwj7RGvz48) if you'd like mentorship from me.
+👉 Complete this <a href="https://forms.gle/EuGnfhTPwj7RGvz48" target="_blank" rel="noopener noreferrer">application</a> if you'd like mentorship from me.
 
 ## Experience
 
