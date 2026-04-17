@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I’m a data scientist specializing in AI, NLP, and computer vision. Currently, I work on the AML (Anti-Money Laundering) team at **TD Bank**.
+I’m a data scientist specializing in AI, NLP, and computer vision. Currently, I work on the AML team at **TD Bank**.
 
-Previously, I was an AI Engineer at **McGill University**, where I built **BONsAI**, an AI agent for <a href="https://geobon.org/" target="_blank">GEO BON</a>, a global network of over 3,500 biodiversity researchers across 152 countries and 2,000 organizations. BONsAI is a RAG-powered assistant that uses open-source LLMs like Llama and DeepSeek to support experts through coding, app interactions, statistical analysis, and reliable, reference-backed insights.
+Previously, I was at **McGill University**, where I built **BONsAI**, an AI agent for <a href="https://geobon.org/" target="_blank">GEO BON</a>, a global network of over 3,500 biodiversity researchers across 152 countries and 2,000 organizations. BONsAI is a RAG-powered assistant that uses open-weight LLMs like Llama and DeepSeek to support experts through coding, app interactions, statistical analysis, and reliable, reference-backed insights.
 
 Before that, at the <a href="https://interactive-or.com/" target="_blank">Interactive-OR Lab</a>, I worked on deploying computer vision models on edge devices to address urban mobility problems. I also held a data analyst role at **Canadian Tire** and collaborated with the **Toronto Transit Commission (TTC)** as a machine learning consultant, helping advance AI-driven transit solutions.
 
@@ -20,7 +20,7 @@ For my latest work, check out the [projects page](projects).
  
 
 ## Interests  
-I’m passionate about applying AI to real-world challenges, especially in natural language processing and computer vision. I’m also curious about emerging areas of machine learning, with growing interest in applications across healthcare, finance, and autonomous systems. 
+I’m passionate and curious about applying AI and machine learning to real-world challenges, with growing interest in applications across finance, autonomous systems, and healthcare. 
 
 
 ## Experience
@@ -54,7 +54,7 @@ I’m passionate about applying AI to real-world challenges, especially in natur
 <div class="experience-container">
   <img src="/images/McGill_logo.png" alt="McGill Logo" class="company-logo">
   <div class="experience-info">
-    <p><strong>AI Engineer | Sep 2024 - Jun 2025</strong></p>
+    <p><strong>Data Scientist, Generative AI | Sep 2024 - Jun 2025</strong></p>
   </div>
 </div>
 
@@ -62,7 +62,7 @@ I’m passionate about applying AI to real-world challenges, especially in natur
 <div class="experience-container">
   <img src="/images/YorkU_logo.png" alt="YorkU Logo" class="company-logo">
   <div class="experience-info">
-    <p><strong>Data Scientist, Computer Vision Engineer | Jun 2023 - Sep 2024</strong></p>
+    <p><strong>Data Scientist, Computer Vision | Jun 2023 - Sep 2024</strong></p>
   </div>
 </div>
 
@@ -86,7 +86,7 @@ I’m passionate about applying AI to real-world challenges, especially in natur
 <div class="experience-container">
   <img src="/images/TMU_logo.png" alt="TMU Logo" class="company-logo">
   <div class="experience-info">
-    <p><strong>Data Scientist | Sep 2019 - Jun 2021</strong></p>
+    <p><strong>Machine Learning Researcher | Sep 2019 - Jun 2021</strong></p>
   </div>
 </div>
 
